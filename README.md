@@ -1,4 +1,6 @@
-# vue_test
+# Todo List in Vue.js
+
+My first Vue.js web application for practice purposes.
 
 ## Project setup
 ```
