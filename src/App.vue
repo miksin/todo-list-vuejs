@@ -11,7 +11,6 @@
 </template>
 
 <script>
-// import HelloWorld from './components/HelloWorld.vue'
 import TodoList from './components/TodoList.vue';
 import TodoForm from './components/TodoForm.vue';
 
